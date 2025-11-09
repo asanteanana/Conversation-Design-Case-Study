@@ -1,10 +1,18 @@
 # Conversation Design Case Study  
 Improving AI Reliability Through Intent Mapping, Tone Control, and Safety-Aware Microcopy
 
-Reference: [Effective Conversational AI]([https://pages.github.com/](https://www.amazon.com/Effective-Conversational-AI-Chatbots-that/dp/1633436403?sr=8-1)).
+### Conversational AI Foundations
+- McTear, M. (2023). *The Conversational AI Handbook*.  
+  https://arxiv.org/abs/2303.06745
 
-Effective Conversational AI
+- Google Research. *Building Better Bots: Principles of Conversational AI.*  
+  https://research.google/pubs/pub48120/
 
+- Microsoft. *Guidelines for Human-AI Interaction.*  
+  https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/
+
+- Rasa. *Conversation-Driven Development.*  
+  https://cdn2.hubspot.net/hubfs/4984639/Conversation-Driven_Development.pdf
 
 ## 📌 Overview  
 This project demonstrates how I design AI interactions that remain clear, safe, and trustworthy when user messages are vague or ambiguous.  
