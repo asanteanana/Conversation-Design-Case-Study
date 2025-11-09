@@ -1,4 +1,4 @@
-# Conversation Design Case Study  
+# Conversation Design Case Study (2025)
 Improving AI Reliability Through Intent Mapping, Tone Control, and Safety-Aware Microcopy
 
 ### Reference: Conversational AI Foundations
