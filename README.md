@@ -1,7 +1,7 @@
 # Conversation Design Case Study  
 Improving AI Reliability Through Intent Mapping, Tone Control, and Safety-Aware Microcopy
 
-Reference: Effective Conversational AI [Effective Conversational AI]([https://pages.github.com/](https://www.amazon.com/Effective-Conversational-AI-Chatbots-that/dp/1633436403?sr=8-1)).
+Reference: [Effective Conversational AI]([https://pages.github.com/](https://www.amazon.com/Effective-Conversational-AI-Chatbots-that/dp/1633436403?sr=8-1)).
 
 Effective Conversational AI
 
