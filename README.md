@@ -1,7 +1,6 @@
 # Conversation Design Case Study  
 Improving AI Reliability Through Intent Mapping, Tone Control, and Safety-Aware Microcopy
 
----
 
 ## 📌 Overview  
 This project demonstrates how I design AI interactions that remain clear, safe, and trustworthy when user messages are vague or ambiguous.  
@@ -14,7 +13,7 @@ I built a structured approach combining:
 
 The aim is to reduce model errors, prevent overconfidence, and support dependable user experiences in high-ambiguity contexts.
 
----
+
 
 ## 🧩 Problem  
 Users often write very short messages with missing context:
