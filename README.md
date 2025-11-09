@@ -1,7 +1,7 @@
 # Conversation Design Case Study  
 Improving AI Reliability Through Intent Mapping, Tone Control, and Safety-Aware Microcopy
 
-### Conversational AI Foundations
+### Reference: Conversational AI Foundations
 - McTear, M. (2023). *The Conversational AI Handbook*.  
   https://arxiv.org/abs/2303.06745
 
