@@ -124,7 +124,4 @@ Reusable phrases that expose uncertainty early and keep responses within privacy
 ---
 
 ## 🎨 Tone Modes  
-Each message chooses a tone mode based on risk:
-
-### **1. Plain Helpful**  
 
